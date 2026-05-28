@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderprocess",
+        "uuid": 18632599,
+        "checksum": "pxwtq7"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
